@@ -1,4 +1,4 @@
-name: stef-mimutual
+name: dtec1a1
 on:
   push:
     branches:
@@ -36,7 +36,7 @@ on:
         default: true
 jobs:
   devdocs:
-    name: stef-ventas
+    name: dtec1a1-job
     runs-on: ubuntu-latest
     env:
       GITHUB_PULL_REQUEST_SHA: ${{ github.event.pull_request.head.sha }}
