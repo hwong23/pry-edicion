@@ -1,0 +1,82 @@
+[
+  {
+    "URL": "https://hwong23.github.io/cmv-devdoc-f1/v/6497aef0f15c3591f0728e4c42cb2c26c13b43aa/",
+    "author": [
+      {
+        "literal": "Stefanini, Coomeva"
+      }
+    ],
+    "id": "19ZPD5YjC",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          6
+        ]
+      ]
+    },
+    "title": "Stefanini. Proyecto de mejoramiento SIU de coomeva. Fase i",
+    "type": "book",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.bib\nstandard_id: eservices1-22"
+  },
+  {
+    "URL": "https://hwong23.github.io/cmv-devdoc-f1/v/6497aef0f15c3591f0728e4c42cb2c26c13b43aa/",
+    "author": [
+      {
+        "literal": "Coomeva"
+      }
+    ],
+    "id": "hQTPO0iI",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          5
+        ]
+      ]
+    },
+    "title": "Arquitectura mi mutual central - especificaciones técnicas",
+    "type": "book",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.bib\nstandard_id: eservices3-22"
+  },
+  {
+    "URL": "https://hwong23.github.io/cmv-devdoc-f1/v/6497aef0f15c3591f0728e4c42cb2c26c13b43aa/",
+    "author": [
+      {
+        "literal": "Stefanini, Coomeva"
+      }
+    ],
+    "id": "l0mriBft",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          5
+        ]
+      ]
+    },
+    "title": "Coomeva manual técnico sharepoint, versión 1",
+    "type": "book",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.bib\nstandard_id: eservices4-22"
+  },
+  {
+    "URL": "https://hwong23.github.io/cmv-devdoc-f1/v/6497aef0f15c3591f0728e4c42cb2c26c13b43aa/",
+    "author": [
+      {
+        "literal": "Coomeva"
+      }
+    ],
+    "id": "2wnXIKb8",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          5
+        ]
+      ]
+    },
+    "title": "Manual técnico cotizador mi mutual",
+    "type": "book",
+    "note": "Loaded from an external bibliography file by Manubot.\nsource_bibliography: manual-references.bib\nstandard_id: eservices5-22"
+  }
+]
