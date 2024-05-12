@@ -1,0 +1,8 @@
+# Pandoc --defaults for DOCX output.
+# Load on top of common defaults.
+to: docx
+output-file: output/CMV-Ventas-Arquitectura-${TRIGGERING_SHA_7}.docx
+reference-doc: build/themes/default.docx
+resource-path:
+ - '.'
+ - content

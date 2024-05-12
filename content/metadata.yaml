@@ -1,0 +1,17 @@
+---
+date: null  # Defaults to date generated, but can specify like '2022-10-31'.
+keywords:
+  - SOA
+  - madurez
+  - gobierno
+  - Coomeva
+lang: en-US
+authors:
+  - github: e_hwong
+    name: Equipo arquitectura STEF-COOMV.
+    initials: HWO
+    email: e_hwong@stefanini.com
+    corresponding: e_hwong@stefanini.com
+    affiliations:
+      - Arquitecto, Stefanini
+  

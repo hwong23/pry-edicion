@@ -1,0 +1,7 @@
+# Pandoc --defaults for DOCX output.
+# Load on top of common defaults.
+to: docx
+reference-doc: build/themes/default.docx
+resource-path:
+ - '.'
+ - content
