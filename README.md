@@ -2,6 +2,9 @@
 [![HTML Publicación](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://hwong23.github.io/stef-arqcomv/)
 [![PDF Publicación](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://hwong23.github.io/stef-arqcomv/manuscript.pdf)
 
+# Proyecto Relacionado
+hwong23 / modelocontenidos
+
 ## Descripción del proyecto
 Este documento tiene como propósito presentar la arquitectura del aplicativo $APLICATIVO para $CLIENTE. según los requerimientos definidos durante la etapa de preventa y luego detallados en las historias de usuario.
 
