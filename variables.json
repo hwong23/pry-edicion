@@ -7,11 +7,11 @@
       "Coomeva"
     ],
     "lang": "en-US",
-    "date-meta": "2024-05-12",
+    "date-meta": "2024-06-13",
     "author-meta": [
       "Equipo arquitectura STEF-COOMV."
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta name=\"dc.date\" content=\"2024-05-12\" />\n<meta name=\"citation_publication_date\" content=\"2024-05-12\" />\n<meta property=\"article:published_time\" content=\"2024-05-12\" />\n<meta name=\"dc.modified\" content=\"2024-05-12T16:58:52+00:00\" />\n<meta property=\"article:modified_time\" content=\"2024-05-12T16:58:52+00:00\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Equipo arquitectura STEF-COOMV.\" />\n<meta name=\"citation_author_institution\" content=\"Arquitecto, Stefanini\" />\n<link rel=\"canonical\" href=\"https://hwong23.github.io/pry-edicion/\" />\n<meta property=\"og:url\" content=\"https://hwong23.github.io/pry-edicion/\" />\n<meta property=\"twitter:url\" content=\"https://hwong23.github.io/pry-edicion/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://hwong23.github.io/pry-edicion/\" />\n<meta name=\"citation_pdf_url\" content=\"https://hwong23.github.io/pry-edicion/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://hwong23.github.io/pry-edicion/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://hwong23.github.io/pry-edicion/v/f49824c7d2f869297f1e6c2837dea574f232e3ca/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://hwong23.github.io/pry-edicion/v/f49824c7d2f869297f1e6c2837dea574f232e3ca/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://hwong23.github.io/pry-edicion/v/f49824c7d2f869297f1e6c2837dea574f232e3ca/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->\n",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta name=\"dc.date\" content=\"2024-06-13\" />\n<meta name=\"citation_publication_date\" content=\"2024-06-13\" />\n<meta property=\"article:published_time\" content=\"2024-06-13\" />\n<meta name=\"dc.modified\" content=\"2024-06-13T03:49:39+00:00\" />\n<meta property=\"article:modified_time\" content=\"2024-06-13T03:49:39+00:00\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Equipo arquitectura STEF-COOMV.\" />\n<meta name=\"citation_author_institution\" content=\"Arquitecto, Stefanini\" />\n<link rel=\"canonical\" href=\"https://hwong23.github.io/pry-edicion/\" />\n<meta property=\"og:url\" content=\"https://hwong23.github.io/pry-edicion/\" />\n<meta property=\"twitter:url\" content=\"https://hwong23.github.io/pry-edicion/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://hwong23.github.io/pry-edicion/\" />\n<meta name=\"citation_pdf_url\" content=\"https://hwong23.github.io/pry-edicion/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://hwong23.github.io/pry-edicion/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://hwong23.github.io/pry-edicion/v/0158f4a0a05950792866db0de5123a24d41e460a/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://hwong23.github.io/pry-edicion/v/0158f4a0a05950792866db0de5123a24d41e460a/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://hwong23.github.io/pry-edicion/v/0158f4a0a05950792866db0de5123a24d41e460a/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->\n",
     "bibliography": [
       "content/manual-references.bib",
       "content/manual-references.json"
@@ -22,10 +22,10 @@
     "manubot-clear-requests-cache": false
   },
   "manubot": {
-    "date": "2024-05-12",
-    "date_long": "May 12, 2024",
-    "generated": "2024-05-12T16:58:52+00:00",
-    "generated_date_long": "May 12, 2024",
+    "date": "2024-06-13",
+    "date_long": "June 13, 2024",
+    "generated": "2024-06-13T03:49:39+00:00",
+    "generated_date_long": "June 13, 2024",
     "randomize_author_order": false,
     "authors": [
       {
@@ -53,15 +53,15 @@
       "repo_slug": "hwong23/pry-edicion",
       "repo_owner": "hwong23",
       "repo_name": "pry-edicion",
-      "commit": "f49824c7d2f869297f1e6c2837dea574f232e3ca",
-      "triggering_commit": "f49824c7d2f869297f1e6c2837dea574f232e3ca",
-      "build_url": "https://github.com/hwong23/pry-edicion/commit/f49824c7d2f869297f1e6c2837dea574f232e3ca/checks",
-      "job_url": "https://github.com/hwong23/pry-edicion/actions/runs/9052899785"
+      "commit": "0158f4a0a05950792866db0de5123a24d41e460a",
+      "triggering_commit": "0158f4a0a05950792866db0de5123a24d41e460a",
+      "build_url": "https://github.com/hwong23/pry-edicion/commit/0158f4a0a05950792866db0de5123a24d41e460a/checks",
+      "job_url": "https://github.com/hwong23/pry-edicion/actions/runs/9493393002"
     },
     "html_url": "https://hwong23.github.io/pry-edicion/",
     "pdf_url": "https://hwong23.github.io/pry-edicion/manuscript.pdf",
-    "html_url_versioned": "https://hwong23.github.io/pry-edicion/v/f49824c7d2f869297f1e6c2837dea574f232e3ca/",
-    "pdf_url_versioned": "https://hwong23.github.io/pry-edicion/v/f49824c7d2f869297f1e6c2837dea574f232e3ca/manuscript.pdf",
+    "html_url_versioned": "https://hwong23.github.io/pry-edicion/v/0158f4a0a05950792866db0de5123a24d41e460a/",
+    "pdf_url_versioned": "https://hwong23.github.io/pry-edicion/v/0158f4a0a05950792866db0de5123a24d41e460a/manuscript.pdf",
     "manubot_version": "0.5.5",
     "rootstock_commit": null,
     "manuscript_stats": {

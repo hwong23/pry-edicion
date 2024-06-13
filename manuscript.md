@@ -5,7 +5,7 @@ keywords:
 - gobierno
 - Coomeva
 lang: en-US
-date-meta: '2024-05-12'
+date-meta: '2024-06-13'
 author-meta:
 - Equipo arquitectura STEF-COOMV.
 header-includes: |
@@ -15,11 +15,11 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.date" content="2024-05-12" />
-  <meta name="citation_publication_date" content="2024-05-12" />
-  <meta property="article:published_time" content="2024-05-12" />
-  <meta name="dc.modified" content="2024-05-12T16:58:52+00:00" />
-  <meta property="article:modified_time" content="2024-05-12T16:58:52+00:00" />
+  <meta name="dc.date" content="2024-06-13" />
+  <meta name="citation_publication_date" content="2024-06-13" />
+  <meta property="article:published_time" content="2024-06-13" />
+  <meta name="dc.modified" content="2024-06-13T03:49:39+00:00" />
+  <meta property="article:modified_time" content="2024-06-13T03:49:39+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -34,9 +34,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/pry-edicion/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/pry-edicion/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/pry-edicion/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/pry-edicion/v/f49824c7d2f869297f1e6c2837dea574f232e3ca/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/pry-edicion/v/f49824c7d2f869297f1e6c2837dea574f232e3ca/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/pry-edicion/v/f49824c7d2f869297f1e6c2837dea574f232e3ca/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/pry-edicion/v/0158f4a0a05950792866db0de5123a24d41e460a/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/pry-edicion/v/0158f4a0a05950792866db0de5123a24d41e460a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/pry-edicion/v/0158f4a0a05950792866db0de5123a24d41e460a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -77,7 +77,7 @@ tablenos-caption-name: Tabla
 
 <br>
 
-| **Versión** del producto 1.f49824c de 12 May 2024
+| **Versión** del producto 1.0158f4a de 13 Jun 2024
 
 | **Presentado a**
 
@@ -87,7 +87,7 @@ tablenos-caption-name: Tabla
 
 | **Fecha**
 
-| 12 May 2024
+| 13 Jun 2024
 
 
 <div style="page-break-before: always;"></div>
@@ -95,10 +95,10 @@ tablenos-caption-name: Tabla
 
 
 <small><em>Los productos de esta etapa, MiMutual - Modificación Core Unidad de Solidaridad y Seguros, Contrato XXX-2023, 
-([Web](https://hwong23.github.io/pry-edicion/v/f49824c7d2f869297f1e6c2837dea574f232e3ca/))
+([Web](https://hwong23.github.io/pry-edicion/v/0158f4a0a05950792866db0de5123a24d41e460a/))
 están basados en el resultado del proyecto Coomeva Mi Mutual en curso.
-[Sharepoint STEF@f49824c](http://stefanini.sharepoint.com)
-del May 12, 2024.
+[Sharepoint STEF@0158f4a](http://stefanini.sharepoint.com)
+del June 13, 2024.
 </em></small>
 
 
@@ -143,6 +143,7 @@ Descripción de los productos del trabajo de arquitectura del proyecto MI MUTUAL
 | Autor          |                            |
 | Fuente         |                            |
 | **Versión**    |                            |
+| 1.0158f4a | 2024-06-12. Update README.md |
 | 1.f49824c | 2024-05-12. upd3 |
 | 1.a4b4712 | 2024-05-12. github |
 | 1.adbf559 | 2024-05-12. readm |
