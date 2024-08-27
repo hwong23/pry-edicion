@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/hwong23/pry-edicion/tree/gh-pages) branch hosts the contents of this directory at <https://hwong23.github.io/pry-edicion/>.
-The permalink for this webpage version is <https://hwong23.github.io/pry-edicion/v/0158f4a0a05950792866db0de5123a24d41e460a/>.
+The permalink for this webpage version is <https://hwong23.github.io/pry-edicion/v/e338f580f921ca63dfbc8f2f3bd611b339ccda96/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://hwong23.github.io/pry-edicion/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`0158f4a0a05950792866db0de5123a24d41e460a`](https://github.com/hwong23/pry-edicion/commit/0158f4a0a05950792866db0de5123a24d41e460a).
+[`e338f580f921ca63dfbc8f2f3bd611b339ccda96`](https://github.com/hwong23/pry-edicion/commit/e338f580f921ca63dfbc8f2f3bd611b339ccda96).
