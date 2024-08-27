@@ -1,4 +1,5 @@
 # Proyecto de Documentación Técnica
+| manubot
 [![HTML Publicación](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://hwong23.github.io/stef-arqcomv/)
 [![PDF Publicación](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://hwong23.github.io/stef-arqcomv/manuscript.pdf)
 
